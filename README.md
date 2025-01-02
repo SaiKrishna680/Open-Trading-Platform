@@ -2,7 +2,7 @@
 
 Welcome to **Open Trading Platform**, a clone of the popular stock trading platform **Zerodha**. This project replicates the frontend design of Zerodha and offers the functionality to **buy and sell stocks** via the backend.
 
-![Open Trading Platform](https://img.icons8.com/color/48/000000/stock-market.png)
+![Stock Market Icon](https://img.icons8.com/color/48/000000/stock-market.png)
 
 ## Features
 
@@ -22,11 +22,20 @@ Welcome to **Open Trading Platform**, a clone of the popular stock trading platf
 
 ## Technologies Used
 
-- **Frontend**: React.js
-- **Backend**: Node.js with Express.js
-- **Database**: MongoDB (or your chosen database)
-- **Authentication**: JWT (JSON Web Tokens)
-- **Version Control**: Git & GitHub
+### Frontend:
+- ![React Logo](https://img.icons8.com/color/48/000000/react.png) **React.js**
+
+### Backend:
+- ![Node.js Logo](https://img.icons8.com/ios/50/000000/nodejs.png) **Node.js with Express.js**
+
+### Database:
+- ![MongoDB Logo](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
+
+### Authentication:
+- ![JWT Logo](https://img.icons8.com/ios/50/000000/json.png) **JWT (JSON Web Tokens)**
+
+### Version Control:
+- ![GitHub Logo](https://img.icons8.com/ios/50/000000/github.png) **Git & GitHub**
 
 ---
 
