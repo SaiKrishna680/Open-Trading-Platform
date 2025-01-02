@@ -46,18 +46,20 @@ Welcome to **Open Trading Platform**, a clone of the popular stock trading platf
 )
 
 2. **Holdings**:
-   ![Backend Image 2](![Screenshot 2025-01-02 193148](https://github.com/user-attachments/assets/d24d87c0-98e1-477c-b474-8aae5efec37a)
-)
-   ![Backend Image 3](![Screenshot 2025-01-02 193302](https://github.com/user-attachments/assets/bdc7a606-7c73-4762-821f-6efb7eba5141)
+   (![Screenshot 2025-01-02 193148](![Screenshot 2025-01-02 193249](https://github.com/user-attachments/assets/5cb63286-01c5-4e0f-8368-8740f37276ce)
+
+   (![Screenshot 2025-01-02 193302](![Screenshot 2025-01-02 193302](https://github.com/user-attachments/assets/9031b91d-daa8-4895-a4e7-0bbf202d6ffa)
 )
 
 4. **Funds**:
-   ![Backend Image 4](![Screenshot 2025-01-02 193302](https://github.com/user-attachments/assets/416aee65-a86f-47ca-ac07-160b2cf75b27)
+   (![Screenshot 2025-01-02 193302](![Screenshot 2025-01-02 193324](https://github.com/user-attachments/assets/a1351d85-6e25-4fec-8df6-34ed541ad3a0)
+
 )
 
 5. **Positions**:
-   ![Backend Image 5](![Screenshot 2025-01-02 193302](https://github.com/user-attachments/assets/913d49f0-9565-404c-a7d4-428d379f4ed6)
+   (![Screenshot 2025-01-02 193302](![Screenshot 2025-01-02 193331](https://github.com/user-attachments/assets/e3918573-ab67-4e6f-9089-3aa0a0047294)
 )
+
 
 ---
 
