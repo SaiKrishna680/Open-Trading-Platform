@@ -5,53 +5,83 @@ Welcome to **Open Trading Platform**, a clone of the popular stock trading platf
 ## Features
 
 ### Frontend:
+
 - **Signup**: Allows users to create a new account to start trading.
 - **About**: Provides information about the platform and how it works.
 - **Products**: Displays available trading products.
 - **Pricing**: Lists pricing details for various trading options.
 - **Support**: Helps users with queries and provides customer support.
 
+#### Frontend Screenshots:
+
+1. **Homepage**:
+   ![Frontend Image 1](![Screenshot 2025-01-02 192802](https://github.com/user-attachments/assets/a8a875e3-ab30-46f7-a414-5929595f47e2)
+)
+2. **Products Page**:
+   ![Frontend Image 3](![Screenshot 2025-01-02 192838](https://github.com/user-attachments/assets/7f1ecb0b-8b1e-4118-b906-56e2ac97dc55)
+)
+
+3. **Pricing Page**:
+   ![Frontend Image 4](![Screenshot 2025-01-02 192858](https://github.com/user-attachments/assets/fd26565a-3347-4a13-9046-1c6967c56165)
+)
+
+4. **Support Page**:
+   ![Frontend Image 5](![Screenshot 2025-01-02 192916](https://github.com/user-attachments/assets/c97b10df-a23e-4fd1-a95c-56abfa2b2db7)
+)
+
+---
+
 ### Backend:
+
 - **Buy Stocks**: Allows users to purchase stocks.
 - **Sell Stocks**: Enables users to sell stocks.
 - **Market Data**: Retrieves live market data to facilitate trading.
+- **User Authentication**: Secure login system using JWT.
+- **Transaction History**: Tracks user transactions.
+
+#### Backend Screenshots:
+
+1. **Dashboard**:
+   ![Backend Image 1](![Screenshot 2025-01-02 193148](https://github.com/user-attachments/assets/fd4033e4-fb6e-47e4-be99-c6ee2eee6a3d)
+)
+
+2. **Holdings**:
+   ![Backend Image 2](![Screenshot 2025-01-02 193148](https://github.com/user-attachments/assets/d24d87c0-98e1-477c-b474-8aae5efec37a)
+)
+   ![Backend Image 3](![Screenshot 2025-01-02 193302](https://github.com/user-attachments/assets/bdc7a606-7c73-4762-821f-6efb7eba5141)
+)
+
+4. **Funds**:
+   ![Backend Image 4](![Screenshot 2025-01-02 193302](https://github.com/user-attachments/assets/416aee65-a86f-47ca-ac07-160b2cf75b27)
+)
+
+5. **Positions**:
+   ![Backend Image 5](![Screenshot 2025-01-02 193302](https://github.com/user-attachments/assets/913d49f0-9565-404c-a7d4-428d379f4ed6)
+)
 
 ---
 
 ## Technologies Used
 
-### Frontend:
-- **React.js**
-
-### Backend:
-- **Node.js with Express.js**
-
-### Database:
-- **MongoDB**
-
-### Authentication:
-- **JWT (JSON Web Tokens)**
-
-### Version Control:
-- **Git & GitHub**
+- **Frontend**: React.js
+- **Backend**: Node.js with Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
 
 ---
 
 ## Getting Started
 
-To get your development environment set up and run the application locally, follow these steps.
-
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
 
-- **Node.js**: [Download Node.js](https://nodejs.org/)
-- **MongoDB**: [Install MongoDB](https://www.mongodb.com/try/download/community) (or use a cloud database such as MongoDB Atlas)
+- **Node.js**
+- **MongoDB**
 
 ### Installation
 
-#### 1. Clone the repository:
-
-```bash
-git clone https://github.com/SaiKrishna680/Open-Trading-Platform.git
-cd Open-Trading-Platform
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SaiKrishna680/Open-Trading-Platform.git
+   cd Open-Trading-Platform
